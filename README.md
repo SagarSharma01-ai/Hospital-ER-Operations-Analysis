@@ -4,8 +4,6 @@
 ![Download premium png of PNG 3D Illustration of doctor injection clothing apparel_ by Ing about doctor cartoon, doctor 3d, syringe, syringe png, and cartoon lab doctor 14690136](https://github.com/user-attachments/assets/a7f01bf3-f0e1-4514-b3e2-728df53d6864)
 
 
-![Download premium png of PNG 3D Illustration of doctor injection clothing apparel_ by Ing about doctor cartoon, doctor 3d, syringe, syringe png, and cartoon lab doctor 14690136](https://github.com/user-attachments/assets/6d8c3b92-e54b-4e25-b9c1-0dbf7eb8cb6f)
-
 ![Power BI](https://img.shields.io/badge/Power_BI-Healthcare_Analytics-yellow)
 
 ### 📄 [View Final Analysis Report](Hospital%20ER%20Analysis%20Report.pdf)
@@ -64,3 +62,5 @@ To improve Satisfaction Scores:
 ---
 ### 📩 Contact
 [LinkedIn Profile](https://www.linkedin.com/in/sagar-sharma-712ba4324/)
+
+![Download premium png of PNG Cartoon doctor green transparent background_ by Adjima about doctor, doctor clipboard, doctor 3d, doctor examination, and clipboard 12119201](https://github.com/user-attachments/assets/901855a1-f842-4e3e-9097-e13eb4a041e0)
