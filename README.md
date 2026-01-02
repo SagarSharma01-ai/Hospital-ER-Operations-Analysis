@@ -6,7 +6,7 @@
 
 ![Power BI](https://img.shields.io/badge/Power_BI-Healthcare_Analytics-yellow)
 
-### 📄 [View Final Analysis Report](Hospital%20ER%20Analysis%20Report.pdf)
+### 📜 [View Final Analysis Report](Hospital%20ER%20Analysis%20Report.pdf)
 
 ---
 
