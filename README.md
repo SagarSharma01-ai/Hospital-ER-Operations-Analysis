@@ -19,14 +19,14 @@ Emergency Rooms are high-pressure environments. This project analyzes **9,216 pa
 
 ### 1. Executive Overview
 *Key Metrics: 9.2K Visitors, 35 Min Wait Time, 50% Admission Rate.*
-![Dashboard Overview](dashboard_overview.jpg)
+![Dashboard Overview]
 
 <img width="1179" height="727" alt="image" src="https://github.com/user-attachments/assets/2b17d731-41db-4be9-b655-d5d97d7e914e" />
 
 
 ### 2. The Bottleneck (Day & Hour Heatmap)
 *This matrix revealed that Mondays & Saturdays are the busiest days, specifically between 11 AM - 1 PM.*
-![Peak Hours Matrix](heatmap_matrix.jpg)
+![Peak Hours Matrix]
 
 <img width="445" height="735" alt="Screenshot 2026-01-01 225847" src="https://github.com/user-attachments/assets/6883a2ed-6923-4624-9afa-d3161db69852" />
 
